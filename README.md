@@ -1,7 +1,7 @@
-'''
+```
 Lemon bloody cola
 I listen to music: [RYM](https://rateyourmusic.com/~yoyochinese)
-'''
+```
 <!--
 **yoyoyochinese/yoyoyochinese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
