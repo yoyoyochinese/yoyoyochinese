@@ -1,10 +1,11 @@
 ```
 Lemon bloody cola
+
 ```
+<img width="1920" height="1200" alt="loveless" src="https://github.com/user-attachments/assets/4ddd5032-f2ee-4d6f-a13a-0a72282d1bb5" />
 <!--
 **yoyoyochinese/yoyoyochinese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
