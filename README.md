@@ -3,6 +3,8 @@ Lemon bloody cola
 
 ```
 <img width="1920" height="1200" alt="loveless" src="https://github.com/user-attachments/assets/4ddd5032-f2ee-4d6f-a13a-0a72282d1bb5" />
+
+[![Yes! I Am A Long Way from Home](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **yoyoyochinese/yoyoyochinese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
